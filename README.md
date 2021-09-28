@@ -11,8 +11,8 @@
 <img align="left" alt="FireBase" title ="FireBase" width="30px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="DotNet" title =".Net" width="30px" src="https://img.icons8.com/officel/80/000000/asp.png" />
 <img align="left" alt="Bootstrap" title ="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="AndroidStudio" title ="AndroidStudio" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-<img align="left" alt="PyCharm" title ="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="PyCharm" title ="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
+<img align="left" alt="AndroidStudio" title ="AndroidStudio" width="30px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
 <img align="left" alt="VisualStudio" title ="VisualStudio" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" title ="Visual Studio Code" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 
